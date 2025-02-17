@@ -17,9 +17,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF5722.svg?style=for-the-badge&logo=matlab&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23333A3D.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-%232C3E50.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-%232F6A47.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
