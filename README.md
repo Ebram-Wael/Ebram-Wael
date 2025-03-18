@@ -30,6 +30,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23CC2927.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Database](https://img.shields.io/badge/database-%23003B57.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 
