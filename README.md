@@ -30,6 +30,7 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%234C4A3F.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23CC2927.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Database](https://img.shields.io/badge/database-%23003B57.svg?style=for-the-badge&logo=databricks&logoColor=white)
